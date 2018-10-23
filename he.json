@@ -1,0 +1,38 @@
+
+[
+  {
+    "issue": "The status icons are not suggestive. Users need to guess what they mean.",
+    "recommendation": "Make a legend or show a tooltip when hovering the icon",
+    "effort": "?",
+    "severity": 1,
+    "fh": "Recognition rather than recall"
+  },
+  {
+    "issue": "Because the pagination is missing from the table, users need to scroll too much to get to the last item if we have a big data table",
+    "recommendation": "Insert a pagination in the table",
+    "effort": "?",
+    "severity": 2,
+    "fh": "Consistency and standards"
+  },
+  {
+    "issue": "The status icons are not suggestive. Users need to guess what they mean.",
+    "recommendation": "Make a legend or show a tooltip when hovering the icon",
+    "effort": "?",
+    "severity": 1,
+    "fh": "Recognition rather than recall"
+  },
+   {
+    "issue": "The searchbar should be placed elsewhere",
+    "recommendation": "Make a legend or show a tooltip when hovering the icon",
+    "effort": "?",
+    "severity": 1,
+    "fh": "Recognition rather than recall"
+  },
+   {
+    "issue": "The mandatory fields are hard to recognize",
+    "recommendation": "Place an asterisk next to the input label instead of placing it as placeholder",
+    "effort": "?",
+    "severity": 1,
+    "fh": "Recognition rather than recall"
+  }
+]
