@@ -1,7 +1,7 @@
 
 [
   {
-    "img": "fb.png",
+    "img": "https://paulgabriel.github.io/xdproject/fb.png",
     "issue": "The status icons are not suggestive. Users need to guess what they mean.",
     "recommendation": "Make a legend or show a tooltip when hovering the icon",
     "effort": "4",
